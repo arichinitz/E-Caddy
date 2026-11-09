@@ -4,8 +4,9 @@ Created throughout my sophomore year of high school, the E-Caddy is an automated
 ## Why I Built the E-Caddy
 
 ## Problem
-What issue this project solves.
-
+Solves two problems in one bag
+- Golfers' golf bags are disorganized - golfers cannot find the right club for the right shot on the course
+- Inexperienced golfers do not know which club to use at which time
 ## Features
 - Feature
 - Feature
